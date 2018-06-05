@@ -22,7 +22,7 @@ Who Am I?
 6
 00:00:32,560 --> 00:00:36,560
 Since The Beginning,
-Humans And Pokémon Alike
+Humans And Pokemon Alike
 
 7
 00:00:36,560 --> 00:00:38,560
@@ -63,7 +63,7 @@ Than This Tale
 15
 00:00:58,080 --> 00:01:00,600
 Of The Most Powerful
-Pokémon Of All.
+Pokemon Of All.
 
 16
 00:01:01,080 --> 00:01:05,600
@@ -170,7 +170,7 @@ Psychic Powers?
 39
 00:02:25,840 --> 00:02:29,360
 For Years We Struggled To
-Successfully Clone A Pokémon
+Successfully Clone A Pokemon
 
 40
 00:02:29,360 --> 00:02:30,840
@@ -184,7 +184,7 @@ Specimen To Survive.
 42
 00:02:33,360 --> 00:02:36,120
 That Is Mew,
-The Rarest Of All Pokémon.
+The Rarest Of All Pokemon.
 
 43
 00:02:36,120 --> 00:02:38,840
@@ -307,7 +307,7 @@ Aah!
 69
 00:04:16,960 --> 00:04:21,440
 We Dreamed Of Creating
-The World's Strongest Pokémon...
+The World's Strongest Pokemon...
 
 70
 00:04:23,440 --> 00:04:25,960
@@ -324,7 +324,7 @@ Behold My Powers.
 73
 00:04:56,160 --> 00:04:59,680
 I Am The Strongest
-Pokémon In The World.
+Pokemon In The World.
 
 74
 00:04:59,680 --> 00:05:03,160
@@ -557,7 +557,7 @@ Stop This Now!
 125
 00:08:36,920 --> 00:08:39,400
 I Was Not Born
-Of Pokémon.
+Of Pokemon.
 
 126
 00:08:39,400 --> 00:08:40,920
@@ -597,7 +597,7 @@ Of All Who Oppose Me.
 
 134
 00:09:38,480 --> 00:09:40,480
-Human And Pokémon Alike.
+Human And Pokemon Alike.
 
 135
 00:09:42,480 --> 00:09:46,480
@@ -620,12 +620,12 @@ Ash, Brock, And Misty
 139
 00:10:19,000 --> 00:10:22,720
 Are Taking A Short Break
-From Their Pokémon Adventures.
+From Their Pokemon Adventures.
 
 140
 00:10:22,720 --> 00:10:26,480
 As Always, Ash Is Determined
-To Become A Pokémon Master,
+To Become A Pokemon Master,
 
 141
 00:10:27,000 --> 00:10:30,480
@@ -697,7 +697,7 @@ Hey! You There!
 156
 00:11:03,520 --> 00:11:05,520
 I'm Lookin' For
-A Pokémon Trainer
+A Pokemon Trainer
 
 157
 00:11:05,520 --> 00:11:08,040
@@ -738,7 +738,7 @@ I Am Too Weak To Work,
 
 165
 00:11:22,280 --> 00:11:24,040
-But A Pokémon Battle
+But A Pokemon Battle
 Isn't Work.
 
 166
@@ -787,7 +787,7 @@ Across The Land #
 
 176
 00:11:59,080 --> 00:12:02,600
-# Each Pokémon
+# Each Pokemon
 To Understand #
 
 177
@@ -800,7 +800,7 @@ To Understand #
 
 179
 00:12:07,600 --> 00:12:09,080
-# Pokémon #
+# Pokemon #
 
 180
 00:12:09,080 --> 00:12:11,600
@@ -812,7 +812,7 @@ To Understand #
 
 182
 00:12:14,080 --> 00:12:15,080
-# Pokémon #
+# Pokemon #
 
 183
 00:12:15,080 --> 00:12:17,600
@@ -824,7 +824,7 @@ To Understand #
 
 185
 00:12:20,600 --> 00:12:21,600
-# Pokémon #
+# Pokemon #
 
 186
 00:12:21,600 --> 00:12:25,120
@@ -842,7 +842,7 @@ And I'll Teach You #
 
 189
 00:12:31,120 --> 00:12:33,120
-# Pokémon #
+# Pokemon #
 
 190
 00:12:33,600 --> 00:12:34,880
@@ -911,7 +911,7 @@ Been A Dream #
 
 205
 00:13:15,640 --> 00:13:17,640
-# Pokémon #
+# Pokemon #
 
 206
 00:13:17,680 --> 00:13:19,160
@@ -923,7 +923,7 @@ Been A Dream #
 
 208
 00:13:22,160 --> 00:13:23,680
-# Pokémon #
+# Pokemon #
 
 209
 00:13:23,680 --> 00:13:25,680
@@ -936,7 +936,7 @@ You're My Best Friend #
 
 211
 00:13:28,680 --> 00:13:30,680
-# Pokémon #
+# Pokemon #
 
 212
 00:13:31,160 --> 00:13:33,160
@@ -953,7 +953,7 @@ And I'll Teach You #
 
 215
 00:13:39,200 --> 00:13:41,200
-# Pokémon #
+# Pokemon #
 
 216
 00:13:41,200 --> 00:13:43,200
@@ -1030,7 +1030,7 @@ We've Got To Grab It.
 233
 00:14:18,760 --> 00:14:21,760
 I Know We Got To Grab Some
-Rare Pokémon For The Boss,
+Rare Pokemon For The Boss,
 
 234
 00:14:21,760 --> 00:14:23,760
@@ -1161,7 +1161,7 @@ Misty: Wow!
 262
 00:16:06,360 --> 00:16:07,880
 Greetings,
-Pokémon Trainers.
+Pokemon Trainers.
 
 263
 00:16:07,880 --> 00:16:09,360
@@ -1179,7 +1179,7 @@ To Join A Select Group
 
 266
 00:16:13,880 --> 00:16:15,880
-Of Pokémon Trainers
+Of Pokemon Trainers
 At A Special Gathering.
 
 267
@@ -1190,7 +1190,7 @@ By My Master,
 268
 00:16:17,880 --> 00:16:20,360
 The World's Greatest
-Pokémon Trainer,
+Pokemon Trainer,
 
 269
 00:16:20,360 --> 00:16:22,360
@@ -1443,7 +1443,7 @@ Tell Of The Storm
 324
 00:19:56,240 --> 00:19:58,240
 Wiping Out All
-But A Few Pokémon.
+But A Few Pokemon.
 
 325
 00:19:58,720 --> 00:20:01,480
@@ -1458,7 +1458,7 @@ Lost In The Storm.
 327
 00:20:04,240 --> 00:20:06,240
 But There Are
-No Pokémon Tears Today.
+No Pokemon Tears Today.
 
 328
 00:20:06,720 --> 00:20:09,720
@@ -1482,7 +1482,7 @@ New Island Anyway.
 
 332
 00:20:15,240 --> 00:20:16,760
-All My Pokémon
+All My Pokemon
 Are Water-Type.
 
 333
@@ -1510,13 +1510,13 @@ If You Tried That Stunt
 
 338
 00:20:26,240 --> 00:20:28,520
-And Your Pokémon Got Hurt,
+And Your Pokemon Got Hurt,
 You'd Be Out Of Luck,
 
 339
 00:20:28,520 --> 00:20:30,760
 Because We Had To Close Down
-The Pokémon Center.
+The Pokemon Center.
 
 340
 00:20:30,760 --> 00:20:32,760
@@ -1607,7 +1607,7 @@ Sets Them Apart
 359
 00:21:24,160 --> 00:21:27,200
 And Will Make Them
-Pokémon Masters.
+Pokemon Masters.
 
 360
 00:21:30,680 --> 00:21:32,680
@@ -1616,7 +1616,7 @@ Good Luck To All Of You.
 361
 00:21:40,200 --> 00:21:42,200
 The World's Greatest
-Pokémon Master
+Pokemon Master
 
 362
 00:21:42,200 --> 00:21:43,680
@@ -1624,7 +1624,7 @@ Is Waiting For Me.
 
 363
 00:21:43,680 --> 00:21:46,200
-Let's Use Our Pokémon
+Let's Use Our Pokemon
 To Get To That Island.
 
 364
@@ -1633,7 +1633,7 @@ Pika!
 
 365
 00:21:47,200 --> 00:21:49,440
-Ash, Our Pokémon
+Ash, Our Pokemon
 Aren't Strong Enough.
 
 366
@@ -2105,8 +2105,8 @@ Was Some Kind Of Test?
 
 469
 00:28:14,800 --> 00:28:17,560
-Please Release Your Pokémon
-From Their Pokéballs
+Please Release Your Pokemon
+From Their Pokeballs
 
 470
 00:28:18,040 --> 00:28:19,320
@@ -2237,7 +2237,7 @@ Whoa!
 497
 00:29:34,320 --> 00:29:35,800
 Fergus:
-Those Are My Pokémon.
+Those Are My Pokemon.
 
 498
 00:29:35,800 --> 00:29:38,800
@@ -2266,7 +2266,7 @@ But Once You Train It,
 503
 00:29:46,320 --> 00:29:48,800
 It's The Most Dependable
-Pokémon There Is.
+Pokemon There Is.
 
 504
 00:29:48,800 --> 00:29:50,800
@@ -2275,7 +2275,7 @@ Pokémon There Is.
 505
 00:29:50,800 --> 00:29:52,840
 You Haven't Met
-My Pokémon.
+My Pokemon.
 
 506
 00:29:52,840 --> 00:29:54,080
@@ -2319,7 +2319,7 @@ For Your Encounter
 515
 00:30:21,360 --> 00:30:23,360
 With The Greatest
-Pokémon Master On Earth.
+Pokemon Master On Earth.
 
 516
 00:30:23,360 --> 00:30:25,360
@@ -2378,12 +2378,12 @@ Ah. Ah.
 529
 00:31:24,400 --> 00:31:27,400
 Yes, The World's
-Greatest Pokémon Master
+Greatest Pokemon Master
 
 530
 00:31:27,400 --> 00:31:29,920
 Is Also The Most
-Powerful Pokémon
+Powerful Pokemon
 
 531
 00:31:29,920 --> 00:31:30,920
@@ -2413,8 +2413,8 @@ Pika.
 
 537
 00:31:39,440 --> 00:31:41,920
-A Pokémon Can't Be
-A Pokémon Master!
+A Pokemon Can't Be
+A Pokemon Master!
 
 538
 00:31:41,920 --> 00:31:42,920
@@ -2535,12 +2535,12 @@ Under My Control.
 565
 00:33:05,520 --> 00:33:09,520
 I Transported You Here
-From The Pokémon Center.
+From The Pokemon Center.
 
 566
 00:33:09,520 --> 00:33:11,520
 Your Knowledge
-Of Pokémon Physiology
+Of Pokemon Physiology
 
 567
 00:33:11,520 --> 00:33:14,040
@@ -2568,7 +2568,7 @@ Of This World,
 572
 00:33:22,520 --> 00:33:25,040
 The Master Of Humans
-And Pokémon Alike.
+And Pokemon Alike.
 
 573
 00:33:25,040 --> 00:33:26,520
@@ -2611,7 +2611,7 @@ Look At These.
 
 582
 00:34:06,560 --> 00:34:08,840
-They're Pokémon.
+They're Pokemon.
 
 583
 00:34:08,840 --> 00:34:11,080
@@ -2644,7 +2644,7 @@ Huh?
 
 590
 00:34:26,080 --> 00:34:29,080
-Computer: This Is The Pokémon
+Computer: This Is The Pokemon
 Replication System.
 
 591
@@ -2653,12 +2653,12 @@ System Activated.
 
 592
 00:34:31,600 --> 00:34:34,600
-Pokémon Based On
+Pokemon Based On
 Genetic Analysis.
 
 593
 00:34:34,600 --> 00:34:36,120
-Pokémon
+Pokemon
 Dna Sampling Sequence
 
 594
@@ -2710,7 +2710,7 @@ There's Your Hair.
 
 605
 00:35:01,640 --> 00:35:04,640
-Computer: Analyzing Pokémon
+Computer: Analyzing Pokemon
 Biomaterial Sample.
 
 606
@@ -2719,7 +2719,7 @@ Analysis Complete.
 
 607
 00:35:06,400 --> 00:35:08,120
-Pokémon Identified.
+Pokemon Identified.
 
 608
 00:35:08,120 --> 00:35:09,640
@@ -2728,7 +2728,7 @@ Begin Replication Sequence.
 609
 00:35:09,640 --> 00:35:11,120
 James: Who's
-That Pokémon?
+That Pokemon?
 
 610
 00:35:11,120 --> 00:35:12,640
@@ -2782,7 +2782,7 @@ A Fossil That Proved To Be
 621
 00:35:38,680 --> 00:35:41,160
 The Remains Of
-The Ancient Pokémon, Mew.
+The Ancient Pokemon, Mew.
 
 622
 00:35:41,160 --> 00:35:42,160
@@ -2807,7 +2807,7 @@ Superclones
 626
 00:35:48,920 --> 00:35:51,160
 More Powerful
-Than Any Living Pokémon.
+Than Any Living Pokemon.
 
 627
 00:35:51,200 --> 00:35:52,160
@@ -2821,7 +2821,7 @@ Proved Successful.
 629
 00:35:54,680 --> 00:35:56,200
 We Produced
-A Living Pokémon.
+A Living Pokemon.
 
 630
 00:35:56,200 --> 00:35:58,680
@@ -2848,7 +2848,7 @@ Our Laboratory.
 635
 00:36:07,160 --> 00:36:10,680
 We Dreamed Of Creating
-The World's Strongest Pokémon...
+The World's Strongest Pokemon...
 
 636
 00:36:10,680 --> 00:36:13,200
@@ -2857,7 +2857,7 @@ And We Succeeded.
 637
 00:36:14,720 --> 00:36:17,720
 Sounds Like
-A Real Pokénstein.
+A Real Pokenstein.
 
 638
 00:36:17,720 --> 00:36:19,440
@@ -2932,11 +2932,11 @@ Destroy Us
 
 653
 00:36:53,920 --> 00:36:54,920
-To Save Pokémon.
+To Save Pokemon.
 
 654
 00:36:54,920 --> 00:36:59,920
-No. Your Pokémon
+No. Your Pokemon
 Will Not Be Spared.
 
 655
@@ -2950,7 +2950,7 @@ By Serving Humans.
 
 657
 00:37:03,400 --> 00:37:05,960
-Those Pokémon Are Nothing
+Those Pokemon Are Nothing
 But Slaves.
 
 658
@@ -3009,7 +3009,7 @@ Pikachu.
 
 671
 00:37:27,920 --> 00:37:29,440
-Humans And Pokémon
+Humans And Pokemon
 
 672
 00:37:29,440 --> 00:37:30,920
@@ -3029,7 +3029,7 @@ Don't Pick On Pikachu.
 
 676
 00:37:36,440 --> 00:37:38,440
-If You Are Pokémon,
+If You Are Pokemon,
 
 677
 00:37:38,440 --> 00:37:40,960
@@ -3058,7 +3058,7 @@ Mewtwo: Fools.
 
 683
 00:38:05,960 --> 00:38:08,960
-Your Pokémon Attacks
+Your Pokemon Attacks
 Cannot Weaken Me.
 
 684
@@ -3144,7 +3144,7 @@ Meowth.
 703
 00:39:31,040 --> 00:39:32,560
 Mewtwo: Like Most
-Pokémon Trainers,
+Pokemon Trainers,
 
 704
 00:39:32,560 --> 00:39:35,080
@@ -3436,7 +3436,7 @@ I Now Claim My Prize--
 
 771
 00:43:43,760 --> 00:43:45,280
-Your Pokémon.
+Your Pokemon.
 
 772
 00:43:45,280 --> 00:43:46,800
@@ -3462,7 +3462,7 @@ Huh?
 777
 00:43:53,800 --> 00:43:55,800
 What Are You Going To Do
-With Those Pokémon?
+With Those Pokemon?
 
 778
 00:43:55,800 --> 00:43:59,800
@@ -3581,7 +3581,7 @@ Can't Capture Them
 804
 00:45:12,360 --> 00:45:14,360
 If They're Already
-Inside Their Pokéballs.
+Inside Their Pokeballs.
 
 805
 00:45:14,360 --> 00:45:16,360
@@ -3612,7 +3612,7 @@ Uhh!
 811
 00:45:28,400 --> 00:45:29,880
 Never Mind
-The Pokéballs.
+The Pokeballs.
 
 812
 00:45:29,880 --> 00:45:31,880
@@ -3836,7 +3836,7 @@ Aah!
 864
 00:48:07,880 --> 00:48:10,360
 Both: Who's
-That Pokémon?
+That Pokemon?
 
 865
 00:48:10,880 --> 00:48:12,360
@@ -3944,7 +3944,7 @@ Whoa!
 
 889
 00:49:34,960 --> 00:49:35,960
-The Poké Originals.
+The Poke Originals.
 
 890
 00:49:36,480 --> 00:49:37,960
@@ -4044,7 +4044,7 @@ Ohh.
 
 912
 00:50:58,720 --> 00:51:01,720
-Mewtwo: With Pokémon
+Mewtwo: With Pokemon
 And Humans Eliminated,
 
 913
@@ -4295,7 +4295,7 @@ Who Will Rule?
 
 971
 00:54:08,640 --> 00:54:10,400
-My Superpokémon
+My Superpokemon
 
 972
 00:54:10,400 --> 00:54:11,920
@@ -4304,7 +4304,7 @@ Or Your Pathetic Group
 973
 00:54:11,920 --> 00:54:14,400
 Of Spineless,
-Inferior Pokémon?
+Inferior Pokemon?
 
 974
 00:54:14,400 --> 00:54:15,400
@@ -4348,7 +4348,7 @@ Of Special Powers,
 
 983
 00:54:32,920 --> 00:54:34,440
-And That A Pokémon's
+And That A Pokemon's
 Real Strength
 
 984
@@ -4383,7 +4383,7 @@ Mewtwo: I Will Block
 
 991
 00:54:54,440 --> 00:54:56,440
-All The Pokémon's
+All The Pokemon's
 Special Abilities
 
 992
@@ -4622,7 +4622,7 @@ Inaudible]
 
 1046
 00:57:38,640 --> 00:57:41,160
-Pokémon Aren't Meant
+Pokemon Aren't Meant
 To Fight--
 
 1047
@@ -4653,7 +4653,7 @@ Understand
 1053
 00:57:51,400 --> 00:57:53,160
 It's Not Right
-To Force Pokémon
+To Force Pokemon
 
 1054
 00:57:53,160 --> 00:57:54,160
@@ -4962,7 +4962,7 @@ Out In Mewtwo's Storm
 
 1125
 01:01:00,840 --> 01:01:03,840
-Than Watch These Pokémon
+Than Watch These Pokemon
 Destroy Each Other.
 
 1126
@@ -4989,7 +4989,7 @@ They'll Ever Stop.
 
 1131
 01:01:15,360 --> 01:01:16,880
-Those Pokémon
+Those Pokemon
 Look Like They're Ready
 
 1132
@@ -5303,7 +5303,7 @@ Sacrificed Himself
 
 1207
 01:06:20,120 --> 01:06:21,640
-To Save The Pokémon.
+To Save The Pokemon.
 
 1208
 01:06:21,640 --> 01:06:24,120
@@ -5484,7 +5484,7 @@ Excuse Me, Please.
 
 1249
 01:08:05,240 --> 01:08:06,720
-The Pokémon
+The Pokemon
 Treatment Center
 
 1250
@@ -5612,12 +5612,12 @@ The Day I Left Home
 1277
 01:09:20,840 --> 01:09:22,840
 To Start
-My Pokémon Journey,
+My Pokemon Journey,
 
 1278
 01:09:22,840 --> 01:09:24,840
 I Saw A Really Rare
-Pokémon,
+Pokemon,
 
 1279
 01:09:24,840 --> 01:09:25,840
@@ -5665,7 +5665,7 @@ Many Strange Legends
 1289
 01:09:42,600 --> 01:09:44,360
 Surround The Mysteries
-Of Pokémon
+Of Pokemon
 
 1290
 01:09:44,360 --> 01:09:46,880
